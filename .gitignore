@@ -1,0 +1,6 @@
+__pycache__
+*.log
+*.txt
+*.pkl
+tmp/
+output/
