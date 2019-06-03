@@ -5,7 +5,7 @@ the command line interface. Running pyDEA with Python scripts is not very
 trivial as you will need to dig into the package and find the methods you want. 
 
 **pyDEA wrapper** provides a wrapper approach to use **pyDEA** in Python scripts. 
-It defines a Python object with methods that call **pyDEA** to solve DEA problems 
+It defines a Python object with methods that call **pyDEA** to solve DEA problems and provides
 some useful functions for post-solution analysis.
 
 ## Usage
